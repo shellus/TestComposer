@@ -1,0 +1,1 @@
+{    "name": "shellus/test-composer",    "description": "the is a test package",    "authors": [        {            "name": "shellus",            "email": "shellus@endaosi.com"        }    ],    "require": {},    "autoload": {      "psr-4": {        "Shellus\\TestComposer\\": "src/"      }    }}
