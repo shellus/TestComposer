@@ -1,1 +1,18 @@
-{    "name": "shellus/test-composer",    "description": "the is a test package",    "authors": [        {            "name": "shellus",            "email": "shellus@endaosi.com"        }    ],    "require": {},    "autoload": {      "psr-4": {        "Shellus\\TestComposer\\": "src/"      }    }}
+{
+  "name": "shellus/test-composer",
+  "type": "library",
+  "description": "the is a test package",
+  "homepage": "https://github.com/shellus/TestComposer",
+  "authors": [
+    {
+      "name": "shellus",
+      "email": "shellus@endaosi.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Shellus\\TestComposer\\": "src/"
+    }
+  }
+}
