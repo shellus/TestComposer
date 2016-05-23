@@ -1,4 +1,4 @@
-<?php namespace Shellus\TestComposer;
+<?php namespace Shellus;
 
 /**
  * Created by PhpStorm.
@@ -6,9 +6,9 @@
  * Date: 2016-05-23
  * Time: 16:51
  */
-class EchoAbc
+class TestComposer
 {
     public function dump(){
-        echo 'abc';
+        return 'abc';
     }
 }

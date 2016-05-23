@@ -13,7 +13,7 @@
   "require": {},
   "autoload": {
     "psr-4": {
-      "Shellus\\TestComposer\\": "src/"
+      "Shellus\\": "src/"
     }
   }
 }
