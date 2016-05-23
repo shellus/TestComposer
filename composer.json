@@ -1,6 +1,7 @@
 {
   "name": "shellus/test-composer",
   "type": "library",
+  "license": "MIT",
   "description": "the is a test package",
   "homepage": "https://github.com/shellus/TestComposer",
   "authors": [
